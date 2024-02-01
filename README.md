@@ -1,13 +1,9 @@
-This program is faciliating easier and more comfortable to make and post an article for users who are having diffculty or feeling uncomfortable to use or post articles.
+This program is designed to facilitate a more comfortable and efficient experience for users like me who find it challenging to write and publish articles .
 
-Whenever you do try to write a post, you would be feeling uncomfortable to adhere writing frontmatter and etc.
+Often, the process can be cumbersome, involving strict adherence to writing frontmatter, navigating local directories, and executing multiple commands like 'add', 'commit', and 'push' for uploading github pages' blog. 
 
-And then, it has more difficulties in writing, e.g. whenever you try to write an artice,
+Recognizing the lack of sufficient tools to streamline these tasks, i tried to develop this program on January 31st. 
 
-you must access your local directory's folder and then open and write an article and then you have to do 'add', 'commit', 'push'.
+It's currently in the developmental stage and may have areas that need improvement.
 
-I did search of programs like these difficulties for resolving, but i couldn't find sufficient stuffs to resolve these difficulties.
-
-I started making this program on January 31st, so it is currently in the developing stage, so it may has a few areas of deficiency.
-
-If you are jekyll blogger, contribute this repository and then completely complete this program.
+I invite Jekyll bloggers to contribute to this repository and help us enhance this program to its full potential."
